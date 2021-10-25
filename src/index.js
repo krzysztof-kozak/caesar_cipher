@@ -1,4 +1,4 @@
-import ceasar13 from "/src/modules/caesar13";
+import ceasar13 from "/src/modules/caesar13.js";
 
 const input = document.querySelector(".input");
 const encryptBtn = document.querySelector(".encryptBtn");
