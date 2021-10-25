@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/krzysztof-kozak/caesar_cipher/issues"
   },
-  "homepage": "https://github.com/krzysztof-kozak/caesar_cipher#readme",
+  "homepage": "https://github.com/krzysztof-kozak/caesar_cipher/src",
   "devDependencies": {
     "parcel": "^2.0.0"
   }
